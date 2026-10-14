@@ -1,0 +1,9 @@
+pk_huawei_usage_subscriber_id,fk_huawei_subscriber_id,subscriber_code,subscriber_name,fk_huawei_subscriber_plan_id,subscriber_plan,call_minutes,sms_count,data_usage_mb,timestamp_wib
+2,1,SUB01,Amir,1,Basic,35,8,1200,2026-10-12 08:00:00
+8,6,SUB06,Nia,1,Basic,25,6,700,2026-10-12 08:00:00
+4,2,SUB02,Sari,2,Premium,85,18,5800,2025-08-01 12:00:00
+6,4,SUB04,Dewi,3,Family,150,30,9000,2025-08-01 08:00:00
+7,5,SUB05,Rian,2,Premium,70,15,5000,2025-08-01 08:00:00
+5,3,SUB03,Budi,1,Basic,20,5,500,2025-08-01 08:00:00
+3,2,SUB02,Sari,2,Premium,90,20,6000,2025-08-01 08:00:00
+1,1,SUB01,Amir,1,Basic,40,10,1500,2025-08-01 08:00:00

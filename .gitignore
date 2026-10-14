@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Ignore frontend folder
+frontend/
+
+# Environment variables
+.env
+frontend/.env
+
+# Logs
+npm-debug.log*
+npm-debug.log*.gz
+*.log
+
+# OS files
+.DS_Store

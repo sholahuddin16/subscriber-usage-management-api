@@ -1,0 +1,28 @@
+{
+  "name": "huawei-subscriber-management",
+  "version": "1.0.0",
+  "description": "Modular Express.js Backend API for Huawei Subscriber Management",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js",
+    "client": "npm --prefix frontend run dev",
+    "client:install": "npm --prefix frontend install",
+    "client:build": "npm --prefix frontend run build"
+  },
+  "keywords": [
+    "express",
+    "postgresql",
+    "huawei",
+    "subscriber",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "node-cron": "^3.0.3",
+    "pg": "^8.13.3"
+  }
+}
